@@ -1,2 +1,2 @@
 # Bank-Marketing-Fairness
-Used AIF360 to mitigate bias in Bank Marketing UCI dataset for linear regression
+This notebook explores fairness in the UCI Bank Marketing dataset and mitigates bias using AIF360 and explores the result of such application in usage of linear regression.
